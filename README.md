@@ -14,7 +14,6 @@ The **Hospital Management System** is a software application designed to manage 
 ## 🛠️ Technologies Used
 - **Python** (Backend Logic)
 - **CSV Files** (Data Storage)
-- **Tkinter** (GUI Interface, if applicable)
 - **Git & GitHub** (Version Control)
 
 ## 📂 Project Structure
